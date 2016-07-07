@@ -3,3 +3,5 @@ applications:
   memory: 512M
   host: cloud-info-solution-mj
   path: target/cf-cloud-info-solution-0.0.1-SNAPSHOT.war   # Maven
+  
+  
